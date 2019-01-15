@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/maciekkostki/precache-manifest.63aaa1d9d9e5c32e4608f6a7f725c46d.js"
+  "/MaciekKostki/precache-manifest.9142114897ad3c2e11d8b97edfaf993a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/maciekkostki/index.html", {
+workbox.routing.registerNavigationRoute("/MaciekKostki/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

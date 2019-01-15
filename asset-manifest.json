@@ -1,13 +1,13 @@
 {
-  "main.css": "/maciekkostki/static/css/main.354284e6.chunk.css",
-  "main.js": "/maciekkostki/static/js/main.2ef8f4af.chunk.js",
-  "main.js.map": "/maciekkostki/static/js/main.2ef8f4af.chunk.js.map",
-  "static/js/1.f03e8ae8.chunk.js": "/maciekkostki/static/js/1.f03e8ae8.chunk.js",
-  "static/js/1.f03e8ae8.chunk.js.map": "/maciekkostki/static/js/1.f03e8ae8.chunk.js.map",
-  "runtime~main.js": "/maciekkostki/static/js/runtime~main.26b3393b.js",
-  "runtime~main.js.map": "/maciekkostki/static/js/runtime~main.26b3393b.js.map",
-  "static/css/main.354284e6.chunk.css.map": "/maciekkostki/static/css/main.354284e6.chunk.css.map",
-  "index.html": "/maciekkostki/index.html",
-  "precache-manifest.63aaa1d9d9e5c32e4608f6a7f725c46d.js": "/maciekkostki/precache-manifest.63aaa1d9d9e5c32e4608f6a7f725c46d.js",
-  "service-worker.js": "/maciekkostki/service-worker.js"
+  "main.css": "/MaciekKostki/static/css/main.354284e6.chunk.css",
+  "main.js": "/MaciekKostki/static/js/main.2ef8f4af.chunk.js",
+  "main.js.map": "/MaciekKostki/static/js/main.2ef8f4af.chunk.js.map",
+  "static/js/1.f03e8ae8.chunk.js": "/MaciekKostki/static/js/1.f03e8ae8.chunk.js",
+  "static/js/1.f03e8ae8.chunk.js.map": "/MaciekKostki/static/js/1.f03e8ae8.chunk.js.map",
+  "runtime~main.js": "/MaciekKostki/static/js/runtime~main.0b51b3f0.js",
+  "runtime~main.js.map": "/MaciekKostki/static/js/runtime~main.0b51b3f0.js.map",
+  "static/css/main.354284e6.chunk.css.map": "/MaciekKostki/static/css/main.354284e6.chunk.css.map",
+  "index.html": "/MaciekKostki/index.html",
+  "precache-manifest.9142114897ad3c2e11d8b97edfaf993a.js": "/MaciekKostki/precache-manifest.9142114897ad3c2e11d8b97edfaf993a.js",
+  "service-worker.js": "/MaciekKostki/service-worker.js"
 }
