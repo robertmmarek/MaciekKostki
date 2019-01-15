@@ -2,7 +2,7 @@
   "name": "kostki_maciek",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://robertmmarek.github.io/my-app",
+  "homepage": "https://robertmmarek.github.io/maciekkostki",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
