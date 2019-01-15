@@ -1,0 +1,18 @@
+.new_line_div{
+    clear: left;
+    float: left;
+    display: inline-block;
+}
+
+.content_div{
+    float: left;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.probability_box{
+    margin-top: 20px;
+    clear: left;
+    float: left;
+    display: inline-block;
+}
