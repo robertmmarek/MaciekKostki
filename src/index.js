@@ -144,7 +144,7 @@ function calculatePropability(previousEventProb, enemyBonus, playerBonus, dice)
             if(i+playerBonus > j+enemyBonus)
             {
                 winCount++;
-            }else if(i+playerBonus == j+enemyBonus)
+            }else if(i+playerBonus === j+enemyBonus)
             {
                 tieCount++;
             }else{
@@ -163,11 +163,6 @@ function calculatePropability(previousEventProb, enemyBonus, playerBonus, dice)
 
 class Probability extends React.Component
 {
-    constructor(props)
-    {
-        super(props);
-    }
-
     render()
     {
         let winProb = String((this.props.winProb*100).toFixed(2));
